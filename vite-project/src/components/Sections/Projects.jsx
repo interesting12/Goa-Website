@@ -53,7 +53,7 @@ const Projects = () => {
       codeLink: '#',
       featured: false
     },
-    {
+        {
       title: 'Social Media Platform',
       description: 'A modern social platform with real-time messaging, photo sharing, and community features.',
       image: '📱',
@@ -62,6 +62,25 @@ const Projects = () => {
       codeLink: '#',
       featured: true
     },
+    {
+      title: 'EcoTracker Mobile App',
+      description: 'An environmental footprint tracker that helps users monitor their carbon emissions, waste production, and sustainable habits with personalized insights.',
+      image: '🌱',
+      tags: ['React Native', 'Node.js', 'MongoDB', 'Chart.js'],
+      liveLink: '#',
+      codeLink: '#',
+      featured: true
+    },
+    {
+      title: 'Recipe Sharing Community',
+      description: 'A social cooking platform where users can share recipes, create meal plans, and connect with food enthusiasts through video tutorials.',
+      image: '👨‍🍳',
+      tags: ['React Native', 'Firebase', 'Redux', 'YouTube API'],
+      liveLink: '#',
+      codeLink: '#',
+      featured: false 
+    }
+
   ]
 
   return (

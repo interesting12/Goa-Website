@@ -29,12 +29,12 @@ const Skills = () => {
     {
       category: 'Frontend',
       icon: '💻',
-      skills: ['React', 'Vue.js', 'TypeScript', 'JavaScript', 'HTML/CSS', 'Tailwind CSS']
+      skills: ['React','TypeScript', 'JavaScript', 'HTML/CSS', 'Tailwind CSS']
     },
     {
       category: 'Backend',
       icon: '⚙️',
-      skills: ['Node.js', 'Python', 'Express', 'MongoDB', 'PostgreSQL', 'Firebase']
+      skills: ['Node.js', 'Python', 'Express', 'MongoDB', 'SQL', 'Firebase']
     },
     {
       category: 'Tools',

@@ -20,7 +20,7 @@ function App() {
       <div className="loading-screen">
         <div className="loader">
           <div className="loader-circle"></div>
-          <p>Loading Portfolio...</p>
+          <p>Loading...</p>
         </div>
       </div>
     )
